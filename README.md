@@ -25,3 +25,5 @@ Screenshots of Operation
 ![InfluxDb heat](https://user-images.githubusercontent.com/68922691/209849482-f0910486-bbbe-4906-b541-c4d2ee24d2cd.PNG)
 
 ![InfluxDb level](https://user-images.githubusercontent.com/68922691/209849599-cd5ec4fd-0407-4ba0-b34a-899d9ad747e7.PNG)
+
+![machine average values in CSV file](https://user-images.githubusercontent.com/68922691/209849725-d34ad734-f6ac-442f-9386-2cd1e2d382a9.png)
