@@ -20,6 +20,6 @@ Screenshots of Operation
 
 ![postgre](https://user-images.githubusercontent.com/68922691/209849170-3083e91e-93c6-4d8d-a629-1eb8aef63d6c.PNG)
 
-![alt text](http://url/to/img.png)
+![InfluxDb drumspeed](https://user-images.githubusercontent.com/68922691/209849338-3c36077e-fe72-4a3a-a17c-39f1545469d9.PNG)
 
 ![alt text](http://url/to/img.png)
