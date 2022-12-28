@@ -18,7 +18,7 @@ Java,Java Spring Boot, PostgreSql, Influx DB ,Python
 
 Screenshots of Operation
 
-![alt text](https://www.dropbox.com/s/5iojmbtqvtnwd07/level.PNG?dl=0)
+![postgre](https://user-images.githubusercontent.com/68922691/209849170-3083e91e-93c6-4d8d-a629-1eb8aef63d6c.PNG)
 
 ![alt text](http://url/to/img.png)
 
