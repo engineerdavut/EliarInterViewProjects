@@ -23,3 +23,5 @@ Screenshots of Operation
 ![InfluxDb drumspeed](https://user-images.githubusercontent.com/68922691/209849338-3c36077e-fe72-4a3a-a17c-39f1545469d9.PNG)
 
 ![InfluxDb heat](https://user-images.githubusercontent.com/68922691/209849482-f0910486-bbbe-4906-b541-c4d2ee24d2cd.PNG)
+
+![InfluxDb level](https://user-images.githubusercontent.com/68922691/209849599-cd5ec4fd-0407-4ba0-b34a-899d9ad747e7.PNG)
