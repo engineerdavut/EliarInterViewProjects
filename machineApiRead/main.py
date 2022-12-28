@@ -17,7 +17,7 @@ def washing_request():
 
     washing_request=requests.get(url)
     return washing_request.json()
-n=input("kac makine var.")
+n=input("How many machines are there?")
 random_washing_create(n)
 #thread getitem ile çözüldü.
 
